@@ -20,6 +20,10 @@ changes.
   to allow use in [custom providers](https://www.yasumi.dev/docs/cookbook/custom_provider/).
   [\#331](https://github.com/azuyalabs/yasumi/issues/331)
 
+- Holiday calculation methods in providers are now protected instead of private 
+  to allow use in [custom providers](https://www.yasumi.dev/docs/cookbook/custom_provider/).
+  [\#331](https://github.com/azuyalabs/yasumi/issues/331)
+
 ### Fixed
 
 ### Removed
